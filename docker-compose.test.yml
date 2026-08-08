@@ -1,0 +1,10 @@
+services:
+  nginx:
+    ports:
+      - "80:80"
+    networks: !override
+      - backend
+    labels: !reset []
+
+networks:
+  traefik-net: !reset null

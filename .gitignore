@@ -1,0 +1,21 @@
+# NUNCA versionar o .env!
+.env
+.env.local
+.env.*.local
+
+# Volumes Docker
+db-data/
+
+# Logs
+*.log
+logs/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
