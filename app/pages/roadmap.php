@@ -20,7 +20,7 @@ require_once '../includes/header.php';
         <div class="section-header">
             <span class="section-label">Nosso Caminho</span>
             <h2 class="section-title">Roadmap do Servidor</h2>
-            <p class="section-desc">A jornada de Eternal War está apenas começando. Veja o que planejamos.</p>
+            <p class="section-desc">A jornada de Aden Eternal está apenas começando. Veja o que planejamos.</p>
         </div>
         <div class="roadmap-timeline">
             <?php foreach ($roadmap as $item): ?>

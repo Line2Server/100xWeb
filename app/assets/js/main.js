@@ -1,5 +1,5 @@
 /**
- * Eternal War L2 - Main JavaScript
+ * Aden Eternal L2 - Main JavaScript
  * Otimizado para performance em máquinas básicas
  */
 

@@ -12,7 +12,7 @@ define('DB_PASS', getenv('DB_PASS') ?: '');
 
 // `SERVER_NAME` is reserved by the web server and resolves to "_" under Nginx.
 // Use the L2-prefixed variable to keep the site name stable on every route.
-define('SERVER_NAME', getenv('L2_SERVER_NAME') ?: 'Eternal War L2');
+define('SERVER_NAME', getenv('L2_SERVER_NAME') ?: 'Aden Eternal L2');
 define('SERVER_CHRONICLE', getenv('SERVER_CHRONICLE') ?: 'Interlude');
 define('SERVER_RATES', getenv('SERVER_RATES') ?: 'x50 XP | x50 SP | x30 Adena | x15 Drop');
 define('SERVER_IP', getenv('SERVER_IP') ?: '127.0.0.1');

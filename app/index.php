@@ -50,13 +50,15 @@ try {
 require_once 'includes/header.php';
 ?>
 
-<!-- HERO SECTION -->
+<?php require_once 'includes/v01-hero.php'; ?>
+
+<!-- LEGACY HERO SECTION (kept temporarily for backwards-compatible markup) -->
 <section class="hero">
     <div class="hero-bg-pattern"></div>
     <div class="hero-content">
         <div class="hero-badge">Servidor Interlude PvP Mid-Rate</div>
         <h1 class="hero-title">
-            <span class="line1">ETERNAL WAR</span>
+            <span class="line1">ADEN ETERNAL</span>
             <span class="line2">LINEAGE II INTERLUDE</span>
         </h1>
         <p class="hero-desc">
@@ -115,7 +117,7 @@ require_once 'includes/header.php';
     <div class="container">
         <div class="section-header">
             <span class="section-label">Características</span>
-            <h2 class="section-title">Por que jogar Eternal War?</h2>
+            <h2 class="section-title">Por que jogar Aden Eternal?</h2>
             <p class="section-desc">Um servidor pensado para quem ama PvP competitivo e economia balanceada.</p>
         </div>
 

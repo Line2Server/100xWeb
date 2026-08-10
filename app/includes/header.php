@@ -34,6 +34,7 @@ $serverStatus = checkServerStatus();
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;600;700;900&family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="/assets/css/style.css?v=3">
+    <link rel="stylesheet" href="/assets/css/v01-hero.css?v=1">
 </head>
 <body>
     <!-- Particles Background -->
@@ -81,8 +82,8 @@ $serverStatus = checkServerStatus();
                     </svg>
                 </div>
                 <div class="logo-text">
-                    <span class="logo-main">ETERNAL</span>
-                    <span class="logo-sub">WAR</span>
+                    <span class="logo-main">ADEN</span>
+                    <span class="logo-sub">ETERNAL</span>
                 </div>
             </a>
 

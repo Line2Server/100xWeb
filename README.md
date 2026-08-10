@@ -1,4 +1,4 @@
-# 🎮 Eternal War L2 - Site + Docker + Traefik + MariaDB
+# 🎮 Aden Eternal L2 - Site + Docker + Traefik + MariaDB
 
 Stack completa Dockerizada para o servidor Lineage 2 Interlude PvP.
 

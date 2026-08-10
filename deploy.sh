@@ -1,7 +1,7 @@
 #!/bin/bash
 set -e
 
-echo "🎮 Eternal War L2 - Deploy Script"
+echo "🎮 Aden Eternal L2 - Deploy Script"
 echo "=================================="
 
 # Verificar se .env existe
